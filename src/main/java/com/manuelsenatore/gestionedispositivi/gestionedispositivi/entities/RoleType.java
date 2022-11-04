@@ -1,0 +1,6 @@
+package com.manuelsenatore.gestionedispositivi.gestionedispositivi.entities;
+
+public enum RoleType {
+    ROLE_USER,
+    ROLE_ADMIN
+}
